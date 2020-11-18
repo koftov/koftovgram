@@ -1,0 +1,7 @@
+{
+  "name": "koftovgram",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
